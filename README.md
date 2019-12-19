@@ -1,3 +1,3 @@
 # Jogo internet explorer
 
-### Desenvolvido ultilizando node js
+### Desenvolvido JS
