@@ -1,3 +1,3 @@
-# Jogo internet explorer
+# Internet Explorer game
 
-### Desenvolvido em JS
+### JS
